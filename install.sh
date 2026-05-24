@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 # ================================================================
 #  PerfGuard Installer
-#  Run: curl -fsSL https://raw.githubusercontent.com/YOU/perfguard/main/install.sh | bash
+#  Run: curl -fsSL https://raw.githubusercontent.com/chukwunonsoprosper/perfguard/main/install.sh | bash
 # ================================================================
 
 set -euo pipefail
 
 INSTALL_DIR="/usr/local/bin"
 SCRIPT_NAME="perfguard"
-REPO_RAW="https://raw.githubusercontent.com/YOU/perfguard/main/perfguard.sh"
+REPO_RAW="https://raw.githubusercontent.com/chukwunonsoprosper/perfguard/main/perfguard.sh"
 CONFIG_DIR="$HOME/.perfguard"
 
 R="\033[0m"
