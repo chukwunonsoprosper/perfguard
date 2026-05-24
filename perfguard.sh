@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ================================================================
 #  PerfGuard v2.0 — macOS System Performance Manager
-#  Install: curl -fsSL https://raw.githubusercontent.com/perfguard/perfguard/main/install.sh | bash
+#  Install: curl -fsSL https://raw.githubusercontent.com/chukwunonsoprosper/perfguard/main/install.sh | bash
 #  Usage:   perfguard [command]
 # ================================================================
 
